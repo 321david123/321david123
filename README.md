@@ -1,6 +1,6 @@
 # 💫 About Me:
 👨‍🎓 Learning... 
-Student @ BHC (transfering soon)
+Student @ BHC 
 
 
 ## 🌐 Socials:
