@@ -1,6 +1,6 @@
 # 💫 About Me:
 👨‍🎓 Learning... 
-Student @ BHC / process to transfer
+19yo Student @ BHC / process to transfer
 
 
 ## 🌐 Socials:
