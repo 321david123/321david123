@@ -1,6 +1,6 @@
 # 💫 About Me:
 👨‍🎓 Learning... 
-19yo Student @ BHC / process to transfer
+19yo Student @ Augustana College / process to transfer
 
 
 ## 🌐 Socials:
