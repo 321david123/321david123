@@ -14,6 +14,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=321david123&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 📫 Contact Me:
+- Email: [yo@davidmtz.me](mailto:yo@davidmtz.me)
 - Email: [davidmrdev@gmail.com](mailto:davidmrdev@gmail.com)
 - Secondary Email: [soporte@ruedatec.com](mailto:soporte@ruedatec.com)
 
