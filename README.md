@@ -2,7 +2,7 @@
 👨‍🎓 Learning... 
 19yo CS Student @ Augustana College / looking to transfer into a top school
 
-Co-founder @ [Ruedatec.com](https://ruedatec.com)
+Co-founder @ [Ruedatec.com](https://ruedatec.com) (2nd place against 170,000+) -- Currently on hold 
 
 Working on [Ai-knows.me](https://ai-knows.me) - web scraper-GPT tracker 
 
