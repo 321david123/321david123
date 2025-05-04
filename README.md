@@ -2,6 +2,9 @@
 👨‍🎓 Learning... 
 19yo CS Student @ Augustana College / looking to transfer into a top school
 
+Co-founder @ Ruedatec ([Ruedatec.com](https://ruedatec.com))
+
+Working on [Ai-knows.me](https://ai-knows.me) - web scraper-GPT tracker 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/david.zzzr) 
