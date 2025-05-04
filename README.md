@@ -1,6 +1,6 @@
 # 💫 About Me:
 👨‍🎓 Learning... 
-19yo Student @ Augustana College / looking to transfer into a top school
+19yo CS Student @ Augustana College / looking to transfer into a top school
 
 
 ## 🌐 Socials:
