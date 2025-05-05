@@ -4,7 +4,7 @@
 
 Co-founder @ [Ruedatec.com](https://ruedatec.com) (2nd place against 170,000+) -- Currently on pause 
 
-1x hackathon winner
+1x hackathon winner + state competition 
 
 Working on [Ai-knows.me](https://ai-knows.me) - web scraper-GPT tracker 
 
