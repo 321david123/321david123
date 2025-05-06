@@ -6,7 +6,7 @@ Co-founder @ [Ruedatec.com](https://ruedatec.com) (2nd place against 170,000+) -
 
 1x hackathon winner + state competition 
 
-Working on [Ai-knows.me](https://ai-knows.me) - web scraper-GPT tracker 
+Working on [Ai-knows.me](https://ai-knows.me) - web scraper-GPT profile maker + base for new AI tracker software
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/david.zzzr) 
