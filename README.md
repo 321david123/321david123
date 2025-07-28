@@ -4,6 +4,8 @@
 
 Co-founder @ [Ruedatec.com](https://ruedatec.com) (2nd place against 170,000+) -- Currently on pause 
 
+2x hackathon winner
+
 Working on [instaport.io] - create your portfolio in in less than a minute with AI and minimum input!
 
 ## 🌐 Socials:
