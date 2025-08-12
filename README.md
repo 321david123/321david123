@@ -6,8 +6,7 @@ Co-founder @ [Ruedatec.com](https://ruedatec.com) (2nd place against 170,000+) -
 
 2x hackathon winner
 
-Working on [instaport.io] - create your portfolio in in less than a minute with AI and minimum input!
-
+Working on [instaport.io] - create your autoupdating portfolio!
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/david.zzzr) 
 
