@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-19yo CS Student @ Augustana College -- top school loading --
+19yo CS Student @ Augustana College - top school loading -
 
 Co-founder @ [Ruedatec.com](https://ruedatec.com) (2nd place against 170,000+) -- Currently on pause 
 
