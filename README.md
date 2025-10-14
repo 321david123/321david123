@@ -2,11 +2,11 @@
 
 19yo CS Student @ Augustana College - top school loading - 
 
-Co-founder @ [Ruedatec.com](https://ruedatec.com) (2nd place against 170,000+) -- Currently on pause 
+Early @ [Ruedatec.com](https://ruedatec.com) (2nd place against 170,000+) -- On pause 
 
-2x hackathon winner
+1x hackathon winner
 
-Working on [instaport.io] - create your autoupdating portfolio
+Working on [instaport.io] - 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/david.zzzr) 
 
