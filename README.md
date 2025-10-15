@@ -1,12 +1,12 @@
 # 💫 About Me:
 
-19yo CS Student @ Augustana College - top school loading - 
+19yo CS Student @ Augustana College - top school loading ?- 
 
 Early @ [Ruedatec.com](https://ruedatec.com) (2nd place against 170,000+) -- On pause 
 
 1x hackathon winner
 
-Working on [instaport.io] - 
+Working on [instaport.io] - I'm making auto updating portfolios accesible for everyone (free)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/david.zzzr) 
 
