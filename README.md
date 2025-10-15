@@ -4,7 +4,7 @@
 
 Early @ [Ruedatec.com](https://ruedatec.com) (2nd place against 170,000+) -- On pause 
 
-1x hackathon winner
+2x hackathon winner
 
 Working on [instaport.io](https://instaport.io) - I'm making auto updating portfolios accesible for everyone (free)
 ## 🌐 Socials:
