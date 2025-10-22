@@ -2,7 +2,7 @@
 
 19yo CS Student @ Augustana College - top school loading ?- 
 
-Founder [Ruedatec.com](https://ruedatec.com) (2nd place against 170,000+) -- On pause 
+Co-founder [Ruedatec.com](https://ruedatec.com) (2nd place against 170,000+) -- On pause 
 
 1x hackathon winner
 
