@@ -6,7 +6,8 @@ Co-founder [Ruedatec.com](https://ruedatec.com) (2nd place against 170,000+) -- 
 
 1x hackathon winner
 
-Working on - [instaport.io](https://instaport.io)
+Working on 
+- [instaport.io](https://instaport.io)
 - B2C Mobile App
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/david.zzzr) 
